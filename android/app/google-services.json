@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "125050356203",
+    "project_id": "scholarkhoj",
+    "storage_bucket": "scholarkhoj.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125050356203:android:467e6bbd3a57ec2d8ed9ae",
+        "android_client_info": {
+          "package_name": "com.example.scholar_khoj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEVhQgRZfu5Up2Gas5iIvQHXv0kevcXqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
